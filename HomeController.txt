@@ -1,3 +1,7 @@
 Home
 
+
 redirect to catalog
+
+
+redirect to cart
